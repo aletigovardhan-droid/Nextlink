@@ -1,0 +1,13 @@
+ mqtt: 34.47.143.117 port: 1883
+ user: zapnet 
+ password: Crested9_Bunny_Iodize
+ ftp also on the same server
+ Also pointed domains to that ip: mqtt.apzapnet.com, ftp.apzapnet.com, hw.apzapnet.com
+
+later :
+mqtt ip: mqtt.apzapnet.com port: 8883
+certs in certs folder
+
+ftp:
+same details with ppk file and username is "ftpuser"
+
